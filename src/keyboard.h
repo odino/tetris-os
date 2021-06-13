@@ -3,7 +3,7 @@
 
 #include "util.h"
 
-// TODO: some of this it 100% wrong lmao
+// TODO: some of this is 100% wrong lmao
 #define KEY_NULL 0
 #define KEY_ESC 27
 #define KEY_BACKSPACE '\b'
